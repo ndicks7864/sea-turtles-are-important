@@ -1,0 +1,24 @@
+body {
+      background-color:#639fff;
+    
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 45px;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+
+}
+
+p {
+   color: #ffffff;
+   font-size: 18px;
+   font-family: 'Patrick Hand SC', cursive;
+
+}
+
+img {
+     max-width:100%;
+
+}
